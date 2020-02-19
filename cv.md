@@ -139,7 +139,7 @@
 |Programming skills| Python - Expert<br>JavaScript - Advanced<br>SQL – Advanced<br>HTML, CSS – Advanced<br>C#, Visual Basic,  PHP,  R - Middle<br>Microsoft excel – Advanced|
 |Experience with|Django (Python),<br>Jupiter (Python),<br>WordPress (PHP),<br>Express (NodeJS),<br>Laravel (PHP),<br>MongoDb, MySQL,<br>Jira, Git|
 
-|Social skills and competences|
+|**Social skills and competences**|
 |:-----|
 |Able to:<br>Learn fast, Work under pressure, Prioritize tasks and meet deadlines, <br>Find creative solutions, Share knowledge.|
 |Calm and positive person, with good communication skills, able to work in a team. Able to listen, able to ask and offer help when needed, having an open mind; living, studying and working in multicultural environment|
@@ -150,7 +150,7 @@
 |Project management of European Economy (Technological Education Institute of Larissa, Greece 12-25 Sep 2010);|
 |Internal auditor certificate ISO 9001:2008 (Lloyd's Register,2009);|
 ||
-|Hobbies and interests|
+|**Hobbies and interests**|
 |Data mining, Machine Learning, AI -  building forecasting models, Neural networks, image recognition software|
 |Data scraping – collecting data from various websites, building bots and web crawers|
 |Web Design, Web Marketing, SEO|
