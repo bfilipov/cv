@@ -122,4 +122,3 @@
 |Type of business|Work and travel USA| 
 |Position held|Clerk|
 |Main activities and responsibilities|Merchandising|
-|||
