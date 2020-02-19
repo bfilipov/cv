@@ -55,8 +55,7 @@
 |Address of employer|47A Tsarigradsko Shosse Blvd, 2nd floor, 1124, Sofia|
 |Type of business|Market research|
 |Position held|Senior Scripting specialist|
-|Main activities and responsibilities|Web survey programming (backend + frontend, database operations), 
-quality assurance|
+|Main activities and responsibilities|Web survey programming (backend + frontend, database operations), quality assurance| 
 |Technologies used|IBM SPSS data collection (Dimensions) /visual basic/;<br> SurveyToGo (Dooblo) /JavaScript/;<br> SQL; JQuery; HTML,CSS;|
 |||
 |Dates|August 2016 – April 2018|
