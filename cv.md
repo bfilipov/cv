@@ -2,7 +2,7 @@
 
 
 | **Personal information**||
-| :------------- |-------------:|
+| -------------: |:-------------|
 | Name      | Bogomil Radoslavov Filipov |
 | Telephone      | 0895 266 669      |
 | E-mail | filipov.bogomil@gmail.com      |
