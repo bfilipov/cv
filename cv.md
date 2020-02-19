@@ -57,7 +57,7 @@
 |Position held|Senior Scripting specialist|
 |Main activities and responsibilities|Web survey programming (backend + frontend, database operations), 
 quality assurance|
-|Technologies used|IBM SPSS data collection (Dimensions) /visual basic/<br>; SurveyToGo (Dooblo) /JavaScript/;<br> SQL; JQuery; HTML,CSS;|
+|Technologies used|IBM SPSS data collection (Dimensions) /visual basic/;<br> SurveyToGo (Dooblo) /JavaScript/;<br> SQL; JQuery; HTML,CSS;|
 |||
 |Dates|August 2016 – April 2018|
 |Name of employer|IPSOS|
