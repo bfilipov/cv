@@ -1,10 +1,329 @@
 ![alt text](https://avatars0.githubusercontent.com/u/19855376?s=150 "Boogomil Filipov")
 
 
-| Personal information||
+| **Personal information**||
 | :------------- |-------------:|
 | Name      | Bogomil Radoslavov Filipov |
 | Telephone      | 0895 266 669      |
 | E-mail | filipov.bogomil@gmail.com      |
-| LinkedIn | [linkedin.com/bfilipov](https://www.linkedin.com/in/bogomil-filipov-25a04987/) |
+| LinkedIn | [linkedin.com/bfilipov](https://www.linkedin.com/in/bogomil-filipov-25a04987/) | 
+|||
+|||
+|**Education and training**||
+|Dates|March 2016 – September 2016|
+|Organisation|Telerik Software Academy|
+|Principal subject|Programming in C#, web technologies and UI| 
+|----|
+|Dates|September  2011 – July 2013|
+|Organisation|University of National and World Economy|
+|Principal subject|Business administration|
+|Title of qualification awarded|Master of Business Administration|
+|----|
+|Dates|September  2007 – July 2011|
+|Organisation|University of National and World Economy|
+|Principal subject|Business administration|
+|Title of qualification awarded|Bachelor of Business Administration|
+|----|
+|Dates|September 2001 – May 2006|
+|Organisation|English Language School „Iordan Radichkov” Vidin|
+|Principal subject|Foreign language profile (English and French)|
+|||
+|||
+|**Work experience**||
+|Dates|April 2019 – present|
+|Name and address of employer|Browswave JSC|
+| |135A Tsarigradsko Shosse Blvd, 1784, Sofia|
+|Type of business|Business Intelligence| 
+|Position held|Python Developer|
+|Main activities and responsibilities|Web crawling, Data processing, Software development|
+|Technologies used|Python, Ruby, JavaScrpit, ElasticSearch, Postges SQL|
+|----|
 
+
+
+
+
+• Dates
+
+November 2018 – present
+• Name and address of employer
+
+AiSolvers
+262 Dobrinova skala, 1343, Sofia
+• Type of business
+
+Data Science & AI
+• Position held
+
+Data Scientist, Co-founder
+• Main activities and responsibilities
+
+Software Development, Data Analysis, Modeling
+
+
+
+
+
+
+• Dates
+
+August 2018 – April 2019
+• Name and address of employer
+
+GFK
+47A Tsarigradsko Shosse Blvd, 2nd floor, 1124, Sofia
+• Type of business
+
+Market research
+• Position held
+
+Software developer
+• Main activities and responsibilities
+
+Web crawling and automation development, database management
+• Technologies used
+
+
+Python, SQL, regex,  Xpath/CSS
+
+
+
+
+
+
+• Dates
+
+April 2018 – April 2019
+• Name and address of employer
+
+GFK
+47A Tsarigradsko Shosse Blvd, 2nd floor, 1124, Sofia
+• Type of business
+
+Market research
+• Position held
+
+Senior Scripting specialist
+• Main activities and responsibilities
+
+Web survey programming (backend + frontend, database operations), 
+quality assurance
+• Technologies used
+
+
+IBM SPSS data collection (Dimensions) /visual basic/; SurveyToGo (Dooblo) /JavaScript/; SQL; JQuery; HTML,CSS;
+
+
+
+
+
+
+
+
+
+
+• Dates
+
+August 2016 – April 2018
+• Name and address of employer
+
+IPSOS
+119 Evropa Boulevard, Sofia
+• Type of business
+
+Market research
+• Position held
+
+Program Technical leader
+• Main activities and responsibilities
+
+Team management (resource tasks planning, technical support), 
+Project management (workload plannig), 
+Web survey programming (backend + frontend, database operations), quality assurance
+• Technologies used
+
+
+IBM SPSS data collection (Dimensions) /visual basic/; SurveyToGo (Dooblo) /JavaScript/; SQL; JQuery; HTML,CSS;
+
+
+
+
+
+
+
+
+
+
+• Dates
+
+March 2015 – April 2018
+• Name and address of employer
+
+IPSOS
+119 Evropa Boulevard, Sofia
+• Type of business
+
+Market research
+• Position held
+
+Scripting specialist/Senior Scripting specialist
+• Main activities and responsibilities
+
+Web survey programming (backend + frontend, database operations), quality assurance
+• Technologies used
+
+
+IBM SPSS data collection (Dimensions) /visual basic/; SurveyToGo (Dooblo) /JavaScript/; SQL; JQuery; HTML,CSS;
+
+
+
+
+
+
+
+• Dates 
+
+February 2014 – March 2015
+• Name and address of employer
+
+Bright Marketing Research
+9, Sveti Sedmochislenitzi str.
+• Type of business
+
+Market research
+• Position held
+
+Questionnaire developer
+
+• Main activities and responsibilities
+
+Survey programming (Decipher - Python), 
+quality assurance, fieldwork management, Data processing
+• Technologies used
+
+
+Python, SQL, HTML, CSS, JQuery
+
+
+
+
+
+
+• Dates
+
+ December 2012 – December 2014
+• Name and address of employer
+
+“Joy Accessories BG” 
+262 Dobrinova skala bul, Sofia
+• Type of business
+
+Online retail
+• Position held
+
+Owner
+• Main activities and responsibilities
+
+Import and retail
+
+
+
+
+• Dates 
+
+May 2012 – September  2012
+• Name and address of employer
+
+High Sierra Pools, 
+2704 Columbia Pike, Arlington, Virginia, USA
+• Type of business
+
+Work and travel uSA 
+• Position held
+
+Lifeguard
+• Main activities and responsibilities
+
+Ensuring safety on pool area
+
+
+
+
+• Dates 
+
+June 2011 - April 2012
+• Name and address of employer
+
+Address Real Estate, 
+47A Tsarigradsko shose bul, Sofia 1124
+• Type of business
+
+Real estate agency
+• Position held
+
+Real estate agent
+• Main activities and responsibilities
+
+intermediation
+
+
+
+
+• Dates 
+
+December 2010 - May 2011
+• Name and address of employer
+
+Junior Achievement Bulgaria, 
+1 Hristo belchev str, Sofia 1000
+• Type of business
+
+Guerilla marketing agency
+(entrepreneurship training)
+• Position held
+
+Marketing manager
+• Main activities and responsibilities
+
+Copyrighting, PR, guerilla marketing
+
+
+
+
+• Dates 
+
+
+October 2008 - May 2009
+• Name and address of employer
+
+Mylo Creative 
+81 Alexander Stamboliiski str, Sofia 1000
+• Type of business
+
+Web design, web marketing  
+• Position held
+
+WordPress developer
+• Main activities and responsibilities
+
+Web Design, project managing, account managing, running google adWords and advertising campaigns
+
+
+
+
+• Dates 
+
+May 2008 - September 2008
+• Name and address of employer
+
+Harris Teeter, 601 Currituck Clubhouse Dr
+Corolla, NC, USA
+• Type of business
+
+Work and travel USA  
+• Position held
+
+Clerk
+• Main activities and responsibilities
+
+Merchandising  
