@@ -29,7 +29,7 @@
 |||
 |**Work experience**||
 |Dates|April 2019 – present|
-|Name and address of employer|Browswave JSC|
+|Name of employer|Browswave JSC|
 |Address of employer|135A Tsarigradsko Shosse Blvd, 1784, Sofia|
 |Type of business|Business Intelligence| 
 |Position held|Python Developer|
