@@ -26,9 +26,8 @@
 |Dates|September 2001 – May 2006|
 |Organisation|English Language School „Iordan Radichkov” Vidin|
 |Principal subject|Foreign language profile (English and French)|
-
+|||
 |**Work experience**||
-| -------------: |:-------------|
 |Dates|April 2019 – present|
 |Name and address of employer|Browswave JSC|
 |Address of employer|135A Tsarigradsko Shosse Blvd, 1784, Sofia|
