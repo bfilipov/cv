@@ -135,7 +135,7 @@
 |Writing skills|B1|
 |Verbal skills|B1|
 |||
-|Technical skills and competences||
+|**Technical skills and competences**||
 |Programming skills| Python - Expert<br>JavaScript - Advanced<br>SQL – Advanced<br>HTML, CSS – Advanced<br>C#, Visual Basic,  PHP,  R - Middle<br>Microsoft excel – Advanced|
 |Experience with|Django (Python),<br>Jupiter (Python),<br>WordPress (PHP),<br>Express (NodeJS),<br>Laravel (PHP),<br>MongoDb, MySQL,<br>Jira, Git|
 
