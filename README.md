@@ -34,7 +34,7 @@
 |Type of business|Business Intelligence| 
 |Position held|Python Developer|
 |Main activities and responsibilities|Web crawling, Data processing, Software development|
-|Technologies used|Python, Ruby, JavaScrpit, ElasticSearch, Postges SQL|
+|Technologies used|Python, Ruby, Xpath, ElasticSearch, PostgeSQL|
 |||
 |Dates|November 2018 – present|
 |Name of employer|AiSolvers|
